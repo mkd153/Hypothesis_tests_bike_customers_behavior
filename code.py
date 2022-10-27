@@ -179,4 +179,4 @@ crosstable
 
 chi2_contingency(crosstable) 
 
-
+# As per the visual analysis, the number of hours recorded in every season is similar for light rain/snow weather and heavy rain/snow weather. However, they are different for clear sky weather, misty weather. The statistical test confirms this as p-value is very low (1.5e-7) so null hypothesis is rejected.
